@@ -20,7 +20,7 @@ img {
 .timer {
   display: flex;
   justify-content: start;
-  margin-top: 14px;
+  margin-top: 15px;
 }
 
 .field {
@@ -28,4 +28,13 @@ img {
   flex-direction: column;
   align-items: center;
   margin-right: 10px;
+}
+
+.value {
+  font-size: 26px;
+}
+
+.label {
+  text-transform: uppercase;
+  font-size: 14px;
 }
