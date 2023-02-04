@@ -12,30 +12,30 @@ form.addEventListener('submit', e => {
 });
 
 function createPromise(position, delay) {
-  const shouldResolve = Math.random() > 0.3;
-  if (shouldResolve) {
-    return Promise.resolve({ position, delay });
-  } else {
-    return Promise.reject({ position, delay });
-  }
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      const shouldResolve = Math.random() > 0.3;
+      if (shouldResolve) {
+        resolve({ position, delay });
+      } else {
+        reject({ position, delay });
+      }
+    }, delay);
+  });
 }
 
 const onExecute = (firstDelay, delayStep, amount) => {
   for (let i = 1, delay = firstDelay; i <= amount; i += 1, delay += delayStep) {
-    setTimeout(
-      () =>
-        createPromise(i, delay)
-          .then(({ position, delay }) => {
-            Notify.success(` Fulfilled promise ${position} in ${delay}ms`, {
-              timeout: 2500,
-            });
-          })
-          .catch(({ position, delay }) => {
-            Notify.failure(`Rejected promise ${position} in ${delay}ms`, {
-              timeout: 2500,
-            });
-          }),
-      delay
-    );
+    createPromise(i, delay)
+      .then(({ position, delay }) => {
+        Notify.success(` Fulfilled promise ${position} in ${delay}ms`, {
+          timeout: 2500,
+        });
+      })
+      .catch(({ position, delay }) => {
+        Notify.failure(`Rejected promise ${position} in ${delay}ms`, {
+          timeout: 2500,
+        });
+      });
   }
 };

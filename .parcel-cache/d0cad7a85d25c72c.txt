@@ -69,7 +69,7 @@
 88C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\electron-to-chromium\LICENSE133193350788555181 0
 82C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\flatpickr\dist\plugins133194651430633722 1
 98C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133193350790809172 0
-51C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist133198537654463560 1
+51C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist133200050378680446 1
 85C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\chokidar\lib\constants.js133193350790948795 0
 103C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\workers\lib\process\ProcessChild.js133193350819672028 0
 59C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules133194672721608773 1
@@ -205,7 +205,7 @@
 101C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\.bin\node-gyp-build-optional-packages.cmd133193350881713708 0
 88C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\svgo\plugins\minifyStyles.js133193350823741154 0
 106C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133193350797042501 0
-68C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\src\js\03-promises.js133198537646775967 0
+68C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\src\js\03-promises.js133200050376677263 0
 82C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\react-refresh\babel.js133193350790150923 0
 113C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133193352333366724 0
 79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\terser\lib\parse.js133193350829635401 0
@@ -214,7 +214,7 @@
 119C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133193350843468437 0
 73C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\tslib\modules133193350800902184 1
 92C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\react-error-overlay\package.json133193350804253237 0
-65C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\src\css\common.css133198429224356936 0
+65C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\src\css\common.css133198547487334496 0
 79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\safe-buffer\LICENSE133193350788375665 0
 103C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-clip-path.js133193352331138178 0
 91C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\svgo\lib\svgo\css-class-list.js133193350819422701 0
@@ -302,7 +302,7 @@
 97C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\source-map\dist\types.js.flow133193350793691482 0
 99C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\csso\lib\replace\property\background.js133193350811723276 0
 93C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\transformer-image\LICENSE133193350788754649 0
-75C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\03-promises.cd58c9ff.js133198537654154389 0
+75C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\03-promises.cd58c9ff.js133200050378540851 0
 88C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\fast-glob\out\types\index.js133193350811065031 0
 68C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\chokidar133193350805011214 1
 99C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\helpers133193350798109687 1
@@ -355,7 +355,7 @@
 87C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\dom-serializer\node_modules133193350758844580 1
 68C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\domutils133193350815104242 1
 66C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\dotenv133193350799266570 1
-81C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133198502156717091 0
+81C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133200049048639694 0
 102C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\terser\node_modules\commander\package.json133193350793262602 0
 78C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\is-number\index.js133193350790250656 0
 73C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\dotenv-expand133193350798628275 1
@@ -849,7 +849,7 @@
 87C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\yaml\browser\types\pairs.js133193350815323644 0
 77C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\yaml\dist\util.js133193350829525699 0
 94C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\default.js133194651409689724 0
-79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133198537654254119 0
+79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133200050378580704 0
 77C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\yaml\browser\dist133193350830752432 1
 106C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-not-sel-list.js133193352332798263 0
 97C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\workers\test\cpuCount.test.js133193350811513837 0
@@ -2286,7 +2286,7 @@
 91C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\fast-glob\out\readers\sync.d.ts133193350830892058 0
 78C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\lmdb\src\windows.c133193350835908643 0
 79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\lmdb\src\writer.cpp133193350838242403 0
-68C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\03-promises.html133198502156846767 0
+68C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\03-promises.html133200049051551544 0
 116C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.glibc.node133193350829874769 0
 104C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\common.gypi133193350791986024 0
 104C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\scrollintoview.js133193352346216738 0
@@ -3665,7 +3665,7 @@
 103C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-animation.js133193352330559714 0
 102C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-any-link.js133193352330609585 0
 114C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0133193350828707886 1
-77C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133198502156717091 0
+77C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133200049048639694 0
 110C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-at-counter-style.js133193352330709311 0
 102C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-autofill.js133193352330749212 0
 99C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib\babel7.js133193350790998663 0
@@ -3890,7 +3890,7 @@
 95C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\meter.js133193352342655979 0
 94C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\midi.js133193352342735771 0
 98C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\minmaxwh.js133193352342761464 0
-81C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133198502156906589 0
+81C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133200049048819187 0
 99C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\mpeg-dash.js133193352342972011 0
 105C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\mutation-events.js133193352343221345 0
 107C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\caniuse-lite\data\features\namevalue-storage.js133193352343440748 0
@@ -5025,14 +5025,14 @@
 75C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\.bin\parcel.cmd133193350881773548 0
 69C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\.bin\sass133193350881773548 0
 69C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\node_modules\.bin\svgo133193350881773548 0
-82C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133198502156697152 0
-86C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133198502156697152 0
-85C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133198502156926535 0
-74C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.html133198502156717091 0
-72C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\02-timer.f9388f03.js133198502156707120 0
-76C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\02-timer.f9388f03.js.map133198502156916560 0
-65C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\02-timer.html133198502156846767 0
-62C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\index.html133198502156856719 0
+82C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133200049047931574 0
+86C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133200049047981442 0
+85C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133200049048829162 0
+74C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\01-color-switcher.html133200049051551544 0
+72C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\02-timer.f9388f03.js133200049048639694 0
+76C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\02-timer.f9388f03.js.map133200049048839142 0
+65C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\02-timer.html133200049051551544 0
+62C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\dist\index.html133200049051561536 0
 79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\assets\actions-config-step-1.png133189817027674381 0
 79C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\assets\actions-config-step-2.png133189817028083282 0
 70C:\Users\Adm\Documents\GitHub\HW\goit-js-hw-09\assets\how-it-works.png133189817028442322 0
